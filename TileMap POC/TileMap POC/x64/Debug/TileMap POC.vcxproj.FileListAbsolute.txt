@@ -1,2 +1,4 @@
 C:\Users\Ian\source\repos\TileMap POC\x64\Debug\SDL2d.dll
 C:\Users\Ian\source\repos\TileMap POC\TileMap POC\x64\Debug\TileMap .8A421063.Up2Date
+C:\Users\Ian\source\repos\TilemapPOC\TileMap POC\x64\Debug\SDL2d.dll
+C:\Users\Ian\source\repos\TilemapPOC\TileMap POC\TileMap POC\x64\Debug\TileMap .8A421063.Up2Date
