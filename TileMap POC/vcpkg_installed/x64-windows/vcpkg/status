@@ -1,0 +1,33 @@
+Package: vcpkg-cmake-config
+Version: 2024-05-23
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 89f2d41328f827fe00a2580cad4806f53b9646025ea77adb009927dad8e7d543
+Status: install ok installed
+
+Package: vcpkg-cmake
+Version: 2024-04-18
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 3b3bf5d6dfbdd5ec7725e8a80cbecccea724552e063e2e31ae2b59c13a16dbd7
+Status: install ok installed
+
+Package: fmt
+Version: 10.2.1
+Port-Version: 2
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 42b0e97e50b44f0cc70a30ee42b1a3686785133a13c503ed2a1f8c187259bfb0
+Description: {fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams.
+Status: install ok installed
+
+Package: sdl2
+Version: 2.30.3
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: fa7cce26328d9e60e28d638d754337b86703c40ea818db88d5f410db59855ea0
+Description: Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
+Status: install ok installed
+
