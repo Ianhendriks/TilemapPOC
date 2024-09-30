@@ -7,36 +7,44 @@
       "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:TilemapLoader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\TileMap POC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:TileMap POC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tile.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:Tile.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Renderer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:Renderer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\TilemapLoader.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:TilemapLoader.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tilemap.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:Tilemap.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:Window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\TileMap POC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:TileMap POC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:Tile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tile.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:Tile.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:Window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tilemap.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:Tilemap.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tilemap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:Tilemap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Renderer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:Renderer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6636B292-FA57-401E-A310-3181A86C706A}|TileMap POC.vcxproj|solutionrelative:Window.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,63 +54,75 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Tile.hpp",
-              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tile.hpp",
-              "RelativeDocumentMoniker": "Tile.hpp",
-              "ToolTip": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tile.hpp",
-              "RelativeToolTip": "Tile.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-29T16:29:14.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Tilemap.hpp",
               "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tilemap.hpp",
               "RelativeDocumentMoniker": "Tilemap.hpp",
               "ToolTip": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tilemap.hpp",
               "RelativeToolTip": "Tilemap.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-29T16:09:05.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TilemapLoader.hpp",
-              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\TilemapLoader.hpp",
-              "RelativeDocumentMoniker": "TilemapLoader.hpp",
-              "ToolTip": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\TilemapLoader.hpp",
-              "RelativeToolTip": "TilemapLoader.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-29T18:10:24.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TileMap POC.cpp",
               "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\TileMap POC.cpp",
               "RelativeDocumentMoniker": "TileMap POC.cpp",
               "ToolTip": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\TileMap POC.cpp",
               "RelativeToolTip": "TileMap POC.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-29T14:43:27.763Z",
+              "WhenOpened": "2024-09-29T14:43:27.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TilemapLoader.hpp",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\TilemapLoader.hpp",
+              "RelativeDocumentMoniker": "TilemapLoader.hpp",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\TilemapLoader.hpp",
+              "RelativeToolTip": "TilemapLoader.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-29T18:10:24.082Z",
               "EditorCaption": ""
             }
           ]
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Renderer.cpp",
+              "RelativeDocumentMoniker": "Renderer.cpp",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Renderer.cpp",
+              "RelativeToolTip": "Renderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T12:05:49.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Window.cpp",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Window.cpp",
+              "RelativeDocumentMoniker": "Window.cpp",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Window.cpp",
+              "RelativeToolTip": "Window.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-30T12:20:43.411Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -111,22 +131,10 @@
               "RelativeDocumentMoniker": "TilemapLoader.cpp",
               "ToolTip": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\TilemapLoader.cpp",
               "RelativeToolTip": "TilemapLoader.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA6wBwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-29T19:17:15.982Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Tile.cpp",
-              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tile.cpp",
-              "RelativeDocumentMoniker": "Tile.cpp",
-              "ToolTip": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tile.cpp",
-              "RelativeToolTip": "Tile.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-29T16:29:19.507Z"
             },
             {
               "$type": "Document",
@@ -136,25 +144,49 @@
               "RelativeDocumentMoniker": "Tilemap.cpp",
               "ToolTip": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tilemap.cpp",
               "RelativeToolTip": "Tilemap.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-29T16:09:08.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Renderer.hpp",
               "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Renderer.hpp",
               "RelativeDocumentMoniker": "Renderer.hpp",
               "ToolTip": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Renderer.hpp",
               "RelativeToolTip": "Renderer.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-29T16:40:01.549Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "Tile.cpp",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tile.cpp",
+              "RelativeDocumentMoniker": "Tile.cpp",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tile.cpp",
+              "RelativeToolTip": "Tile.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T16:29:19.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tile.hpp",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tile.hpp",
+              "RelativeDocumentMoniker": "Tile.hpp",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Tile.hpp",
+              "RelativeToolTip": "Tile.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-29T16:29:14.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Window.hpp",
               "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\TilemapPOC\\TileMap POC\\Window.hpp",
               "RelativeDocumentMoniker": "Window.hpp",

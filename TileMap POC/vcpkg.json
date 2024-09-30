@@ -1,7 +1,8 @@
 {
   "dependencies": [
     "fmt",
+    "nlohmann-json",
     "sdl2",
-    "nlohmann-json"
+    "sdl2-image"
   ]
 }
