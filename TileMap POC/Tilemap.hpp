@@ -1,15 +1,16 @@
+#pragma once
 #include <vector>
-#include "Tile.hpp"
+#include "Layer.hpp"
 
 using namespace std;
 
 class Tilemap {
 public:
-	Tilemap(int width, int height);
-	~Tilemap();
-	[[nodiscard]] vector<vector<Tile>> tiles() const;
-	void addNewTile(int x, int y, Tile tile);
+	Tilemap() = default;
+	~Tilemap() = default;
+	const vector<Layer>& layers() const;
+	void addLayer(const Layer& layer);
 
 private:
-	vector<vector<Tile>> _tiles;
+	vector<Layer> _layers;
 };

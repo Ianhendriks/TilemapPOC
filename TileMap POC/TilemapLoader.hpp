@@ -11,12 +11,18 @@
 #include <filesystem>
 #include <string>
 
+using namespace nlohmann;
+using namespace std;
+
 class TilemapLoader
 {
 public:
-	Tilemap loadTilemap();
 	TilemapLoader() = default;
 	~TilemapLoader() = default;
+	Tilemap loadTilemap();
+
+	TilemapLoader(const TilemapLoader&) = delete;
+	TilemapLoader& operator=(const TilemapLoader&) = delete;
 private:
-	map<int, SDL_Texture*> loadTextures(string source);
+	map<int, Texture> loadTextures(basic_json<>& tilesets);
 };

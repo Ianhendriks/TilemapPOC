@@ -133,19 +133,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Layer.cpp" />
     <ClCompile Include="Renderer.cpp" />
+    <ClCompile Include="Texture.cpp" />
     <ClCompile Include="Tile.cpp" />
-    <ClCompile Include="TileMap POC.cpp" />
+    <ClCompile Include="Main.cpp" />
     <ClCompile Include="Tilemap.cpp" />
     <ClCompile Include="TilemapLoader.cpp" />
     <ClCompile Include="Window.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Layer.hpp" />
     <ClInclude Include="Renderer.hpp" />
+    <ClInclude Include="Texture.hpp" />
     <ClInclude Include="Tile.hpp" />
     <ClInclude Include="Tilemap.hpp" />
     <ClInclude Include="TilemapLoader.hpp" />
     <ClInclude Include="Window.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TileMap POC.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

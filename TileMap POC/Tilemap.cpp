@@ -1,17 +1,12 @@
 #include "Tilemap.hpp"
 
-Tilemap::Tilemap(int width, int height) :
-	_tiles(width, std::vector<Tile>(height)) {}
-
-Tilemap::~Tilemap() = default;
-
-void Tilemap::addNewTile(int x, int y, Tile tile)
+void Tilemap::addLayer(const Layer& layer)
 {
-	_tiles[x][y] = tile;
+	_layers.emplace_back(layer);
 }
 
-vector<vector<Tile>> Tilemap::tiles() const
+const vector<Layer>& Tilemap::layers() const
 {
-	return _tiles;
+	return _layers;
 }
 
