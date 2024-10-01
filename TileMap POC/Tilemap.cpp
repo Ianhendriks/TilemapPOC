@@ -10,3 +10,9 @@ const vector<Layer>& Tilemap::layers() const
 	return _layers;
 }
 
+Tilemap::~Tilemap()
+{
+	_layers.clear();
+}
+
+

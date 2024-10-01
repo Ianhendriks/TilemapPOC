@@ -9,7 +9,7 @@ class Tile
 {
 public:
 	Tile() : _texture(), _x(0), _y(0) {}
-	Tile(Texture& texture, int x, int y);
+	Tile(const Texture& texture, int x, int y);
 	~Tile() = default;
 
 	Tile(const Tile&) = default;

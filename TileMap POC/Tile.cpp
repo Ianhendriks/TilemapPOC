@@ -1,5 +1,5 @@
 #include "Tile.hpp"
-Tile::Tile(Texture& texture, int x, int y) :
+Tile::Tile(const Texture& texture, int x, int y) :
 	_texture{ texture },
 	_x{ x },
 	_y{ y } {}
@@ -33,3 +33,4 @@ void Tile::set_y(int y)
 {
 	this->_y = y;
 }
+

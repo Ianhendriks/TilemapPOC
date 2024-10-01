@@ -14,3 +14,4 @@ Renderer::~Renderer()
 		SDL_DestroyRenderer(renderer);
 	}
 }
+

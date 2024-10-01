@@ -14,3 +14,4 @@ Window::~Window()
 		SDL_DestroyWindow(current);
 	}
 }
+

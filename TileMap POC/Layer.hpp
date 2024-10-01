@@ -6,7 +6,7 @@ class Layer
 {
 public:
 	Layer(int width, int height);
-	~Layer() = default;
+	~Layer();
 	[[nodiscard]] const vector<vector<Tile>>& tiles() const;
 	void addTile(int x, int y, const Tile& tile);
 

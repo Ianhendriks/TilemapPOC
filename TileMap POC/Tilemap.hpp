@@ -7,7 +7,7 @@ using namespace std;
 class Tilemap {
 public:
 	Tilemap() = default;
-	~Tilemap() = default;
+	~Tilemap();
 	const vector<Layer>& layers() const;
 	void addLayer(const Layer& layer);
 

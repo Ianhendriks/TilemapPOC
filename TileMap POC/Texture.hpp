@@ -6,11 +6,11 @@ using namespace std;
 
 class Texture {
 public:
-    Texture() : _texture(nullptr), _width(0), _height(0) {} // Default constructor
+    Texture() : _texture(nullptr), _width(0), _height(0) {}
     Texture(SDL_Texture* texture, int width, int height);
     ~Texture() = default;
 
-    Texture(const Texture&) = default;
+    Texture(const Texture& other) = default;
     Texture& operator=(const Texture&) = default;
     Texture(Texture&&) noexcept = default;
     Texture& operator=(Texture&&) noexcept = default;
@@ -23,8 +23,7 @@ public:
     void set_height(int height);
 
 private:
-    shared_ptr<SDL_Texture> _texture;
+    SDL_Texture* _texture;
     int _width;
     int _height;
-
 };

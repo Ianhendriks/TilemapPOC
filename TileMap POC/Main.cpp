@@ -48,10 +48,11 @@ int main(int argc, char *argv[])
             {
                 running = false;
                 SDL_RenderClear(Renderer::renderer);
-                SDL_Quit();
+                
             }
         }
     }
+    SDL_Quit();
     _CrtDumpMemoryLeaks();
     return 0;
 }

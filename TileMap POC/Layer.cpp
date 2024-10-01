@@ -13,3 +13,8 @@ const vector<vector<Tile>>& Layer::tiles() const
 {
 	return _tiles;
 }
+
+Layer::~Layer()
+{
+	_tiles.clear();
+}
