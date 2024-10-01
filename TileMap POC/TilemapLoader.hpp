@@ -14,6 +14,9 @@
 class TilemapLoader
 {
 public:
-	map<int, SDL_Texture> loadTextures(string source);
-	Tilemap* loadTilemap();	
+	Tilemap loadTilemap();
+	TilemapLoader() = default;
+	~TilemapLoader() = default;
+private:
+	map<int, SDL_Texture*> loadTextures(string source);
 };

@@ -5,9 +5,9 @@ class Window
 {
 public:
 	static SDL_Window* current;
-	void init();
+	static void init();
 
 private:
-	Window() {}
-	~Window() {}
+	Window() = default;
+	~Window();
 };	

@@ -9,7 +9,9 @@ class Renderer
 public:
 	static SDL_Renderer* renderer;
 
+	static void init();
+
 private:
-	Renderer() {}
-	~Renderer() {}
+	Renderer() = default;
+	~Renderer();
 };

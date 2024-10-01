@@ -40,3 +40,32 @@ Abi: b5266dfaa05afdf8218da9ec03024b789af412cc14737811b95ba8230b6abc95
 Description: JSON for Modern C++
 Status: install ok installed
 
+Package: zlib
+Version: 1.3.1
+Depends: vcpkg-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: c8fb47edb688e60da67998f55ef03597e5e954d841ca6bcc6c3137cc08526dbf
+Description: A compression library
+Status: install ok installed
+
+Package: libpng
+Version: 1.6.43
+Port-Version: 2
+Depends: vcpkg-cmake, vcpkg-cmake-config, zlib
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 76f88a75c0cc1d6f32262f7ad9b8d2c39f6a3627635ccb5a47707e952d0e2d8e
+Description: libpng is a library implementing an interface for reading and writing PNG (Portable Network Graphics) format files
+Status: install ok installed
+
+Package: sdl2-image
+Version: 2.8.2
+Port-Version: 2
+Depends: libpng, sdl2, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 5d96885c91e1609141b623f1d1c6c7e53cd9515d3f2fb2be70c04ba1ef4414c6
+Description: SDL_image is an image file loading library. It loads images as SDL surfaces and textures, and supports the following formats: BMP, GIF, JPEG, LBM, PCX, PNG, PNM, TGA, TIFF, WEBP, XCF, XPM, XV
+Status: install ok installed
+
