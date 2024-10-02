@@ -6,6 +6,7 @@
 #include <nlohmann/json.hpp>
 #include <string>
 #include <unordered_map>
+#include <algorithm>
 #include <fstream>
 #include <iostream>
 #include <filesystem>

@@ -60,8 +60,7 @@ Tilemap TilemapLoader::loadTilemap()
 			int x = index % width;
 			int y = index / width;
 
-			Texture texture = textures[tileID];
-			Tile newTile(texture, x, y);
+			Tile newTile(textures[tileID], x, y);
 			newLayer.addTile(x, y, newTile);
 		}
 		tilemap.addLayer(newLayer);
